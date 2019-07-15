@@ -2,7 +2,7 @@ class Csvsh < Formula
   desc "Terminal tool for querying CSV files using SQL-like language"
   homepage "https://github.com/raymank26/csvsh"
   url "https://github.com/raymank26/csvsh/releases/download/0.0.1/csvsh-0.0.1.tar"
-  sha256 "a1ab18d6cb2478744d46b4e75e4f7d142b5d1f4d267645801be74eeea5392cdc"
+  sha256 "3fa504780ebc9692b3b108daa0d66bcd51b658c00cd59cebf264c3baa741827e"
 
   depends_on :java => '1.8+'
 
